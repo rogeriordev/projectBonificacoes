@@ -1,6 +1,3 @@
-# projectBonificacoes
-Aplicação web para gestão de bonificações de colaboradores com base em indicadores.
-
 # 💰 Sistema de Gestão de Bonificações
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-blue.svg)](https://www.php.net/)
