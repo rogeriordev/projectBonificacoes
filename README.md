@@ -3,7 +3,6 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-blue.svg)](https://www.php.net/)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.x-red.svg)](https://codeigniter.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
-[![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 
 > Aplicação web robusta e escalável para gerenciar bonificações de colaboradores baseada em métricas e atingimentos mensais, com fluxo de aprovação multinível e controle financeiro completo. Sistema flexível que se adapta a diferentes modelos de negócio e estruturas organizacionais.
 
